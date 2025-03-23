@@ -3,64 +3,23 @@
   "WorkspaceRootPath": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\domain\\contracts\\userrequestandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:domain\\contracts\\userrequestandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthDbPro/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\infrastructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:infrastructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\domain\\contracts\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,6 +28,62 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\domain\\contracts\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:domain\\contracts\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:exceptions\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\migrations\\20250319180206_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:migrations\\20250319180206_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\domain\\contracts\\userrequestandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:domain\\contracts\\userrequestandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\extensions\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:extensions\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:service\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\infrastructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|solutionrelative:infrastructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BF70DB5-54ED-4420-B3D8-9ED1D7DF5838}|DotnetAuth.csproj|d:\\belajar\\pemrograman\\youtube\\clifftech\\asp .net core\\dotnetauth\\dotnetauth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -82,7 +97,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,32 +105,80 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GlobalExceptionHandler.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Exceptions\\GlobalExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Exceptions\\GlobalExceptionHandler.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Exceptions\\GlobalExceptionHandler.cs",
-              "RelativeToolTip": "Exceptions\\GlobalExceptionHandler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBQAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AuthDbPro/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-22T17:08:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\Contracts\\ErrorResponse.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\ErrorResponse.cs",
+              "RelativeToolTip": "Domain\\Contracts\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T18:02:13.75Z",
+              "WhenOpened": "2025-03-08T16:00:12.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "Service\\CurrentUserService.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\CurrentUserService.cs",
+              "RelativeToolTip": "Service\\CurrentUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:32:23.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:49:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T15:35:54.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -125,159 +188,38 @@
               "RelativeDocumentMoniker": "Service\\UserService.cs",
               "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\UserService.cs",
               "RelativeToolTip": "Service\\UserService.cs",
-              "ViewState": "AgIAANEAAAAAAAAAAAAAANAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAAPYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T17:46:14.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "Service\\IUserService.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\IUserService.cs",
-              "RelativeToolTip": "Service\\IUserService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Exceptions\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "Exceptions\\GlobalExceptionHandler.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Exceptions\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "Exceptions\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:33:12.925Z"
+              "WhenOpened": "2025-03-15T18:02:13.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T16:46:36.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\TokenService.cs",
               "RelativeDocumentMoniker": "Service\\TokenService.cs",
               "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\TokenService.cs",
               "RelativeToolTip": "Service\\TokenService.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAE4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T16:45:29.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CurrentUserService.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\CurrentUserService.cs",
-              "RelativeDocumentMoniker": "Service\\CurrentUserService.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\CurrentUserService.cs",
-              "RelativeToolTip": "Service\\CurrentUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:32:23.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserRequestAndResponse.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\UserRequestAndResponse.cs",
-              "RelativeDocumentMoniker": "Domain\\Contracts\\UserRequestAndResponse.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\UserRequestAndResponse.cs",
-              "RelativeToolTip": "Domain\\Contracts\\UserRequestAndResponse.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:06:43.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T16:46:38.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T16:53:47.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ITokenService.cs",
-              "RelativeDocumentMoniker": "Service\\ITokenService.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ITokenService.cs",
-              "RelativeToolTip": "Service\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:42:45.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:49:55.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ICurrentUserService.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ICurrentUserService.cs",
-              "RelativeDocumentMoniker": "Service\\ICurrentUserService.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ICurrentUserService.cs",
-              "RelativeToolTip": "Service\\ICurrentUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:30:15.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:25:21.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Mapping\\MappingProfile.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "Infrastructure\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:21:28.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\JwtSettings.cs",
               "RelativeDocumentMoniker": "Domain\\Contracts\\JwtSettings.cs",
@@ -289,31 +231,151 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ErrorResponse.cs",
-              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\ErrorResponse.cs",
-              "RelativeDocumentMoniker": "Domain\\Contracts\\ErrorResponse.cs",
-              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\ErrorResponse.cs",
-              "RelativeToolTip": "Domain\\Contracts\\ErrorResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "Service\\ICurrentUserService.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ICurrentUserService.cs",
+              "RelativeToolTip": "Service\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:00:12.352Z"
+              "WhenOpened": "2025-03-08T16:30:15.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:33:12.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T16:46:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T16:46:38.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250319180206_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Migrations\\20250319180206_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250319180206_InitialCreate.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Migrations\\20250319180206_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250319180206_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:02:07.2Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "UserRequestAndResponse.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\UserRequestAndResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\Contracts\\UserRequestAndResponse.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Contracts\\UserRequestAndResponse.cs",
+              "RelativeToolTip": "Domain\\Contracts\\UserRequestAndResponse.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:06:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Extensions\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Extensions\\ApplicationService.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Extensions\\ApplicationService.cs",
+              "RelativeToolTip": "Extensions\\ApplicationService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIBJwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:26:35.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAABRwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T16:53:47.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Service\\ITokenService.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Service\\ITokenService.cs",
+              "RelativeToolTip": "Service\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:42:45.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:25:21.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Infrastructure\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Infrastructure\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:21:28.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
               "ToolTip": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\Domain\\Entities\\ApplicationUser.cs",
               "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T12:04:54.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "DotnetAuth.csproj",
               "DocumentMoniker": "D:\\Belajar\\Pemrograman\\Youtube\\CliffTech\\ASP .NET Core\\DotnetAuth\\DotnetAuth.csproj",
               "RelativeDocumentMoniker": "DotnetAuth.csproj",

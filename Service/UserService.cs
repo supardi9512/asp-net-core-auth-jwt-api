@@ -51,6 +51,8 @@ namespace DotnetAuth.Service
             }
             _logger.LogInformation("User created successfully");
             await _tokenService.GenerateToken(newUser);
+            newUser.CreateAt = DateTime.Now;
+            newUser.UpdateAt = DateTime.Now;
             return _mapper.Map<UserResponse>(newUser);
      
         }
@@ -58,7 +60,7 @@ namespace DotnetAuth.Service
         //this method generates a unique username by concatenating the first name and last name
         private string GenerateUserName(string firstName, string lastName)
         {
-            var baseUsername = $"{firstName} {lastName}".ToLower();
+            var baseUsername = $"{firstName}{lastName}".ToLower();
 
             //check if the username already exists
             var username = baseUsername;
@@ -98,6 +100,7 @@ namespace DotnetAuth.Service
             var refreshTokenHash = sha256.ComputeHash(Encoding.UTF8.GetBytes(refreshToken));
             user.RefreshToken = Convert.ToBase64String(refreshTokenHash);
             user.RefreshTokenExpiryTime = DateTime.Now.AddDays(2);
+            user.CreateAt = DateTime.Now;
 
             //update user information in database
             var result = await _userManager.UpdateAsync(user);
@@ -109,6 +112,7 @@ namespace DotnetAuth.Service
             }
 
             var userResponse = _mapper.Map<ApplicationUser, UserResponse>(user);
+            
             userResponse.AccessToken = token;
             userResponse.RefreshToken = refreshToken;
 
@@ -175,7 +179,7 @@ namespace DotnetAuth.Service
             return currentUserResponse;
         }
 
-        public async Task<RevokeRefreshTokenResponse> RevokeRefreshToken(RefreshTokenRequest refreshTokenRemoveRequest)
+        public async Task<RevokeRefreshTokenResponse> RevokeRefreshTokenAsync(RefreshTokenRequest refreshTokenRemoveRequest)
         {
             _logger.LogInformation("Revoking refresh token");
 
@@ -240,6 +244,7 @@ namespace DotnetAuth.Service
                 throw new Exception("User not found");
             }
 
+            user.UpdateAt = DateTime.Now;
             user.FirstName = request.FirstName;
             user.LastName = request.LastName;
             user.Email = request.Email;
